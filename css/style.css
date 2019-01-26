@@ -39,7 +39,7 @@ and open the template in the editor.
     color: #f8f8f8;
     background: url(../img/bgimage.jpg) no-repeat center center;
     background-size: cover;
-    margin-left: 15%;
+    
 }
 .inner-banner-image{
     padding-top: 12%;
@@ -56,23 +56,25 @@ and open the template in the editor.
     max-width: available;
 }
 
-#ind{
-    margin-left: 5px;
-}
+
 #fr{
-    margin-left: 5px;
+    margin-left: 50px;
 }
 #vg{
-    margin-left: 5px;
+    margin-left: 50px;
 }
 #au{
-    margin-left: 5px;
+    margin-left: 50px;
 }
 #cu{
-    margin-left: 5px;
+    margin-left: 50px;
 }
 .navbar-fixed-top{
   
+}
+#myNavbar2{
+    width: 100%;
+    margin: auto;
 }
 #footer{
     position: relative;
@@ -89,15 +91,5 @@ and open the template in the editor.
  
 }
 body{
-    background-color: #e0e4a8;
-}
-.panel{
-    float: left;
-    margin-top: 50px;
-    padding-right: 80px;
-}
-.panel-heading{
-    align-content: center;
-    padding: 0px;
-    width: 100%;
+    
 }
