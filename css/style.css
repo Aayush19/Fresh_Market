@@ -1,0 +1,103 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 Aug, 2018, 10:18:17 PM
+    Author     : Private
+*/
+
+.container{
+    width:100%;
+    margin:auto;
+    overflow:hidden;
+}
+.img{
+     border: 1px solid #ddd; /* Gray border */
+    border-radius: 2px;  /* Rounded border */
+    padding: 0px; /* Some padding */
+    width: 150px; /* Set a small width */
+}
+#jumbo{
+    margin: 60px;
+}
+#jum{
+    margin: 170px 250px 250px 190px;
+}
+#jumbo2{
+    
+    background-image: url(../img/bgimg.jpg);
+    margin-top: 100px;
+    width: 100%;
+    border: 4px;
+}
+.banner-image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/bgimage.jpg) no-repeat center center;
+    background-size: cover;
+    margin-left: 15%;
+}
+.inner-banner-image{
+    padding-top: 12%;
+    width:80%;
+    margin:auto;
+}
+.banner-content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    overflow:hidden;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: available;
+}
+
+#ind{
+    margin-left: 5px;
+}
+#fr{
+    margin-left: 5px;
+}
+#vg{
+    margin-left: 5px;
+}
+#au{
+    margin-left: 5px;
+}
+#cu{
+    margin-left: 5px;
+}
+.navbar-fixed-top{
+  
+}
+#footer{
+    position: relative;
+    padding: 10px;
+    left: 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%
+}
+.row{
+    margin-left: 10%;
+    margin-right: 10%;
+ 
+}
+body{
+    background-color: #e0e4a8;
+}
+.panel{
+    float: left;
+    margin-top: 50px;
+    padding-right: 80px;
+}
+.panel-heading{
+    align-content: center;
+    padding: 0px;
+    width: 100%;
+}
